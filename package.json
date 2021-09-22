@@ -122,7 +122,7 @@
     "gulp-sass": "2.3.2",
     "gulp-uglify": "1.5.4",
     "gulp-util": "3.0.8",
-    "imagemin-pngquant": "5.0.1",
+    "imagemin-pngquant": "5.1.0",
     "istanbul": "0.4.5",
     "karma": "0.13.22",
     "karma-chrome-launcher": "0.2.3",
