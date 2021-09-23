@@ -51,7 +51,7 @@
     "generate-password": "1.6.1",
     "glob": "7.2.0",
     "grunt": "1.4.1",
-    "grunt-cli": "1.2.0",
+    "grunt-cli": "1.4.3",
     "helmet": "3.6.1",
     "jasmine-core": "2.99.1",
     "lodash": "4.17.21",
