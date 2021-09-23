@@ -49,7 +49,7 @@
     "express-session": "1.17.2",
     "file-stream-rotator": "0.0.7",
     "generate-password": "1.1.1",
-    "glob": "7.0.6",
+    "glob": "7.2.0",
     "grunt": "1.0.4",
     "grunt-cli": "1.2.0",
     "helmet": "3.6.1",
