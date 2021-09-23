@@ -137,7 +137,7 @@
     "node-inspector": "0.12.10",
     "run-sequence": "1.2.2",
     "semver": "5.3.0",
-    "should": "11.1.2",
+    "should": "11.2.1",
     "supertest": "2.0.1"
   },
   "snyk": true
