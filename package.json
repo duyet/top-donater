@@ -134,7 +134,7 @@
     "lcov-result-merger": "1.2.0",
     "load-grunt-tasks": "5.1.0",
     "mock-fs": "3.12.1",
-    "node-inspector": "0.12.10",
+    "node-inspector": "1.1.2",
     "run-sequence": "1.2.2",
     "semver": "5.7.1",
     "should": "11.2.1",
