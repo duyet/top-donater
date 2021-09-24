@@ -52,7 +52,7 @@
     "glob": "7.2.0",
     "grunt": "1.4.1",
     "grunt-cli": "1.4.3",
-    "helmet": "3.6.1",
+    "helmet": "3.23.3",
     "jasmine-core": "2.99.1",
     "lodash": "4.17.21",
     "lusca": "1.7.0",
