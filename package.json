@@ -138,7 +138,7 @@
     "run-sequence": "1.2.2",
     "semver": "7.3.5",
     "should": "11.2.1",
-    "supertest": "2.0.1"
+    "supertest": "6.1.6"
   },
   "snyk": true
 }
