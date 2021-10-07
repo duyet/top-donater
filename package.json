@@ -77,7 +77,7 @@
     "validator": "13.6.0",
     "winston": "3.3.3",
     "wiredep": "4.0.0",
-    "snyk": "1.732.0"
+    "snyk": "1.733.0"
   },
   "devDependencies": {
     "coveralls": "3.1.1",
