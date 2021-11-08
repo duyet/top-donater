@@ -133,7 +133,7 @@
     "karma-phantomjs-launcher": "1.0.4",
     "lcov-result-merger": "3.1.0",
     "load-grunt-tasks": "5.1.0",
-    "mock-fs": "5.1.1",
+    "mock-fs": "5.1.2",
     "node-inspector": "1.1.2",
     "run-sequence": "2.2.1",
     "semver": "7.3.5",
