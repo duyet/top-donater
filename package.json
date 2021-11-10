@@ -82,7 +82,7 @@
   "devDependencies": {
     "coveralls": "3.1.1",
     "eslint": "8.2.0",
-    "eslint-config-airbnb": "18.2.1",
+    "eslint-config-airbnb": "19.0.0",
     "grunt-concurrent": "3.0.0",
     "grunt-contrib-copy": "1.0.0",
     "grunt-contrib-csslint": "2.0.0",
