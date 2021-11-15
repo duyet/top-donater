@@ -36,7 +36,7 @@
     "acl": "0.4.11",
     "async": "3.2.2",
     "body-parser": "1.19.0",
-    "bower": "1.8.12",
+    "bower": "1.8.13",
     "cfenv": "1.2.4",
     "chalk": "4.1.2",
     "compression": "1.7.4",
